@@ -4,7 +4,7 @@
     {
         function Conectar()
         {
-          $mysqli = new mysqli("bnsandqzvsistxrjqrs3-mysql.services.clever-cloud.com","uo3e2lgsjfgavxei","DsfR3zp9t8IdiB0Z60Dg","bnsandqzvsistxrjqrs3");
+          $mysqli = new mysqli("buuotk45mxbsykpduhlc-mysql.services.clever-cloud.com","ugvevacy1aawvkr4","2aqR5wJ91QLSPaTne1D4","buuotk45mxbsykpduhlc");
           
           if($mysqli->connect_errno)
           {
