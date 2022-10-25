@@ -16,17 +16,24 @@
             </p>
         </div>
         <div class="derecho"> 
-            <h1 class="titulo">BIENVENIDO</h1>
+           <p> Experimenta esa sensación de libertad y la desga de
+            adrenalina al estar por un momento suspendido en el cielo,
+            teniendo como fondo a los imponentes cuchumatanes.</p>
+           <P></P>
+           <p> No te pierdas la oportunidad de incirte al evento ciclístico
+            que más pasiones despierta a nivel de Huehuetenango. </p>
+           <p></p>
+           <p> Déjanos tus datos, accediendo al siguiente enlace. </p>
+            <div class="INSCRIPCION">
+            <a href="VistaEstudiante.php"><h1 class="titulo">Deseo Inscribirme ></h1>  </a>
+            </div>
         </div>
+        
     </div>
-    </div>
-    <a href="VistaEstudiante.php">Deseo Inscribirme</a>
+
+    
 
 
-
-    <p>Ludwin Villatoro....Prueba de Sincronización</p>
-
-    </div>
     
     
 
