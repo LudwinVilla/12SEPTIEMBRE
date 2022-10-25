@@ -1,0 +1,26 @@
+*{
+    margin: 2px;
+    padding: 2px;
+  }
+
+.contenido{
+    display: flex;
+    background-color: white;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 20px;
+    border: black 2px solid;
+}
+
+.derecho{
+    width: 70%;
+    background-color: white;
+    padding: 120px;
+}
+
+.img
+  {
+    max-width: 515px;
+    max-height: 317px;
+      
+  }
