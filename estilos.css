@@ -38,3 +38,12 @@
     font-size: 25px;
     font-weight: bolder;
   }
+
+  .container{
+    margin-left: 1%;
+    margin-right: 75%;
+    padding: 25px;
+    border: black 2px solid;
+    background-color: black;
+    color: white;
+}
