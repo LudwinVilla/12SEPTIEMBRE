@@ -15,15 +15,14 @@
 .img
   {
     max-width: 515px;
-    max-height: 317px;
-      
+    max-height: 515px;
   }
 
   .INSCRIPCION{
     display: flex;
     text-align: center;
     margin-left: 1%;
-    margin-right: 78%;
+    margin-right: 75%;
     padding: 10px;
     border: black 2px solid;
     background-color: black;
@@ -32,10 +31,10 @@
   }
 
   .titulo{
-    text-decoration: none;
     display:flex;
     color: green;
+    text-decoration: none;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bolder;
   }
